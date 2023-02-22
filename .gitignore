@@ -1,0 +1,4 @@
+.idea
+eks/.idea
+eks/.terraform
+eks/.gitconfig
