@@ -2,3 +2,6 @@
 eks/.idea
 eks/.terraform
 eks/.gitconfig
+k8s-bootstrap/.terraform
+k8s-bootstrap/.gitconfig
+k8s-bootstrap/.idea
